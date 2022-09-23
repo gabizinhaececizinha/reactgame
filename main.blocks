@@ -1,4 +1,13 @@
-<xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="pxt-on-start"></block>
-  <block type="device_forever"></block>
-</xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="6|(2!0[V!8e@qZ4M/jyE" x="20" y="20"></block><block type="device_forever" id="Jzg8usvrl!BiB|5m8guU" x="225" y="20"></block><block type="device_pin_event" id="5FqXPpjlp`aH^c]-1(sL" x="498" y="51"><field name="name">TouchPin.P1</field><statement name="HANDLER"><block type="device_show_leds" id="8l}ChS.[ITYSHxFhsP(["><field name="LEDS">`
+        # # # . . 
+        # # # . . 
+        # # # . . 
+        # # . . . 
+        # # . . .
+        `</field></block></statement></block><block type="device_pin_event" id="jeIj7W:R$68;F#uW:L.Z" x="41" y="189"><field name="name">TouchPin.P0</field><statement name="HANDLER"><block type="device_show_number" id="RRuGgmn_2fUj;ftO]Cc1"><value name="number"><shadow type="math_number" id="Y8g1IO$AJrWr[A!_(9%P"><field name="NUM">3</field></shadow></value><next><block type="device_show_number" id=")O#13F30ishbCc@Qh-oq"><value name="number"><shadow type="math_number" id="@i(AvK,DrK+3pa;c@5#A"><field name="NUM">2</field></shadow></value><next><block type="device_show_number" id="Pu,wHj2chG1f:al+X~*]"><value name="number"><shadow type="math_number" id="ZQ7CZHMhoRmv.ct{4g/y"><field name="NUM">1</field></shadow></value><next><block type="device_print_message" id="]imb/+H`CGyg^Clz=-Qj"><value name="text"><shadow type="text" id="vlZ`gH(m*}u)?[d%I5b["><field name="TEXT">vamos jogar, pussi</field></shadow></value><next><block type="device_clear_display" id="VqPkWxWmcw(#0C9A(-ni"><next><block type="device_pause" id="n?5kPPrcv$]F:(QK@bBC"><value name="pause"><shadow type="timePicker" id="~8bLXn)Nu8^bIM1pFzSe"><field name="ms"></field></shadow><block type="device_random" id="]E~hi!SS5@)VEsXEJ,Zd"><value name="min"><shadow type="math_number" id="n=0(LT{VIWGoXd$NBybE"><field name="NUM">1000</field></shadow></value><value name="limit"><shadow type="math_number" id="C;O2u;xim:,wS$A[W|)`"><field name="NUM">10000</field></shadow></value></block></value><next><block type="basic_show_icon" id="-/.c1wC)+6/a5st2L=MH"><field name="i">IconNames.Yes</field><next><block type="device_pause" id="^M.lTd4}`D$=X~$KG-m6"><value name="pause"><shadow type="timePicker" id="*Ir@2aM(hqFi+`|%PWY`"><field name="ms">500</field></shadow></value><next><block type="device_clear_display" id="GTZVqO,)#cb?2`IY.d27"></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block><block type="device_pin_event" id="cN~gGOHDypGVjkz~G7RX" x="627" y="378"><field name="name">TouchPin.P2</field><statement name="HANDLER"><block type="device_show_leds" id="t.dQ^~O][JKC1gYH96Xh"><field name="LEDS">`
+        . . # # # 
+        . . # # # 
+        . . # # # 
+        . . . # # 
+        . . . # #
+        `</field></block></statement></block></xml>
